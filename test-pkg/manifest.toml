@@ -1,0 +1,6 @@
+[package]
+name = "retro-test"
+version = "1.0"
+arch = "aarch64"
+description = "Test package"
+retroscore = 1
